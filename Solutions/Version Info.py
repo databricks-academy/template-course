@@ -10,9 +10,9 @@
 # MAGIC %md
 # MAGIC # Project Information
 # MAGIC 
-# MAGIC * Name: **New Course**
+# MAGIC * Name: **Template Course**
 # MAGIC * Version:  **1.0.0**
-# MAGIC * Built On: **Nov 17, 2022 at 19:59:17 UTC**
+# MAGIC * Built On: **Nov 23, 2022 at 15:27:53 UTC**
 
 # COMMAND ----------
 
